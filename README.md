@@ -40,10 +40,13 @@ Data-Visualization-Practice/
 │
 ├── Matplotlib practice.ipynb
 ├── Seaborn practice.ipynb
-├── Needle_Stick_Injuries.csv
+├── book.csv
 ├── student_records.csv
 └── README.md
 ```
+## 📂 Dataset Note
+
+The **book.csv** file contains the **Needle Stick Injuries dataset**. The original dataset was named **Needle_Stick_Injuries.csv**, but it was renamed to **book.csv** for easier data manipulation and practice.
 
 ## 🎯 Key Learning Outcomes
 
